@@ -48,4 +48,34 @@
 		<fname>sample6</fname>
 		<date>By Developer</date>
 	</patch>
+	<patch>
+	    <new>0</new>
+		<name>Sample Name7</name>
+		<fname>sample7</fname>
+		<date>By Developer</date>
+	</patch>
+	<patch>
+	    <new>0</new>
+		<name>Sample Name8</name>
+		<fname>sample6</fname>
+		<date>By Developer</date>
+	</patch>
+	<patch>
+	    <new>0</new>
+		<name>Sample Name9</name>
+		<fname>sample9</fname>
+		<date>By Developer</date>
+	</patch>
+	<patch>
+	    <new>0</new>
+		<name>Sample Name10</name>
+		<fname>sample10</fname>
+		<date>By Developer</date>
+	</patch>
+	<patch>
+	    <new>0</new>
+		<name>Sample Name11</name>
+		<fname>sample11</fname>
+		<date>By Developer</date>
+	</patch>
 </patches>
