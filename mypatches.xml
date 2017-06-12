@@ -6,4 +6,22 @@
 		<fname>MMSuperPatcher-1.4</fname>
 		<date>By Developer</date>
 	</patch>
+	<patch>
+	    <new>1</new>
+		<name>Hide and Seek Map</name>
+		<fname>Pheonix-map</fname>
+		<date>By Developer</date>
+	</patch>
+	<patch>
+	    <new>0</new>
+		<name>Sample Name</name>
+		<fname>sample</fname>
+		<date>By Developer</date>
+	</patch>
+	<patch>
+	    <new>0</new>
+		<name>Sample Name2</name>
+		<fname>sample2</fname>
+		<date>By Developer</date>
+	</patch>
 </patches>
