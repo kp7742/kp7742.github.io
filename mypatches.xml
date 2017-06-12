@@ -24,4 +24,28 @@
 		<fname>sample2</fname>
 		<date>By Developer</date>
 	</patch>
+	<patch>
+	    <new>0</new>
+		<name>Sample Name3</name>
+		<fname>sample3</fname>
+		<date>By Developer</date>
+	</patch>
+	<patch>
+	    <new>0</new>
+		<name>Sample Name4</name>
+		<fname>sample4</fname>
+		<date>By Developer</date>
+	</patch>
+	<patch>
+	    <new>0</new>
+		<name>Sample Name5</name>
+		<fname>sample5</fname>
+		<date>By Developer</date>
+	</patch>
+	<patch>
+	    <new>0</new>
+		<name>Sample Name6</name>
+		<fname>sample6</fname>
+		<date>By Developer</date>
+	</patch>
 </patches>
