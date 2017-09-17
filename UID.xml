@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <patchtable>
 	<patches>
+        <id>0</id>
+        <name>Category 1</name>
+        <summary></summary>
+        <offset></offset>
+        <original></original>
+        <patch></patch>
+		<sarray></sarray>
+		<slimit></slimit>
+    </patches>
+	<patches>
         <id>1</id>
         <name>Flying Power</name>
         <summary>Test Checkbox</summary>
@@ -11,4 +21,3 @@
 		<slimit></slimit>
     </patches>
 </patchtable>
-51nHHQdBwy7UnLIdLfXMkcM5GJeT2nkflDRoGz+bKnIiW6l9Fyvkdj2fW9jH/K+y
