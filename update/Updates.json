@@ -1,0 +1,33 @@
+{
+	"appupdate": {
+		"isupdate":false,
+		"appversion":"2.3",
+		"appversioncode":23,
+		"linkupdate":"http://bit.ly/MMSuperPatcher2-0"
+	},
+	"patchupdate": {
+		"ispatchupdate":true,
+		"patchpref":"17OCT-1",
+		"patchtitle":"17 OCT Update 1",
+		"patchdetail":"https://kp7742.github.io/update/CL2.html"
+	},
+	"supportversion": [
+		{
+			"version":"4.2.2"
+			"versioncode":"422"
+			"path":"https://github.com/kp7742/kp7742.github.io/raw/master/update/422.kmods"
+		},
+		{
+			"version":"4.1.2"
+			"versioncode":"412"
+			"path":"https://github.com/kp7742/kp7742.github.io/raw/master/update/412.kmods"
+		}
+	],
+	"specialevent": {
+		"isspecial":false,
+		"eventpref":"17OCT-1",
+		"eventtitle":"Happy Diwali (India)",
+		"eventdetail":"http://my-magic.in/?n=Kuldip-Patel"
+	},
+	"whatsapplink":"https://chat.whatsapp.com/HpvHJPbWTotGdBt37hmhe3",
+}
