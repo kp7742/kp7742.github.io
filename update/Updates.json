@@ -12,6 +12,11 @@
 		"patchdetail":"https://kp7742.github.io/update/CL2.html"
 	},
 	"supportversion": [
+	````{
+			"version":"4.2.4",
+			"versioncode":"424",
+			"path":"https://github.com/kp7742/kp7742.github.io/raw/master/update/424.kmods"
+		},
 		{
 			"version":"4.2.3",
 			"versioncode":"423",
@@ -29,10 +34,10 @@
 		}
 	],
 	"specialevent": {
-		"isspecial":false,
-		"eventpref":"E-17OCT-1",
+		"isspecial":true,
+		"eventpref":"E-07NOV-1",
 		"eventtitle":"Happy Diwali (India)",
-		"eventdetail":"http://my-magic.in/?n=Kuldip-Patel"
+		"eventdetail":"http://wish4u.co/wish.php"
 	},
 	"whatsapplink":"https://chat.whatsapp.com/HpvHJPbWTotGdBt37hmhe3"
 }
