@@ -7,12 +7,17 @@
 	},
 	"patchupdate": {
 		"ispatchupdate":true,
-		"patchpref":"P-01NOV-1",
-		"patchtitle":"01 NOV Update 1",
+		"patchpref":"P-10NOV-1",
+		"patchtitle":"10 NOV Update 1",
 		"patchdetail":"https://kp7742.github.io/update/CL2.html"
 	},
 	"supportversion": [
-	````{
+		{
+			"version":"4.2.5",
+			"versioncode":"425",
+			"path":"https://github.com/kp7742/kp7742.github.io/raw/master/update/425.kmods"
+		},
+		{
 			"version":"4.2.4",
 			"versioncode":"424",
 			"path":"https://github.com/kp7742/kp7742.github.io/raw/master/update/424.kmods"
@@ -34,10 +39,10 @@
 		}
 	],
 	"specialevent": {
-		"isspecial":true,
+		"isspecial":false,
 		"eventpref":"E-07NOV-1",
 		"eventtitle":"Happy Diwali (India)",
 		"eventdetail":"http://wish4u.co/wish.php"
 	},
-	"whatsapplink":"https://chat.whatsapp.com/HpvHJPbWTotGdBt37hmhe3"
+	"whatsapplink":"https://chat.whatsapp.com/AB2fZJXtrkCJd906KnKvuw"
 }
