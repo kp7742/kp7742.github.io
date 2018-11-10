@@ -7,8 +7,8 @@
 	},
 	"patchupdate": {
 		"ispatchupdate":true,
-		"patchpref":"P-10NOV-1",
-		"patchtitle":"10 NOV Update 1",
+		"patchpref":"P-10NOV-2",
+		"patchtitle":"10 NOV Update 2",
 		"patchdetail":"https://kp7742.github.io/update/CL2.html"
 	},
 	"supportversion": [
