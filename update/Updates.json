@@ -7,11 +7,16 @@
 	},
 	"patchupdate": {
 		"ispatchupdate":true,
-		"patchpref":"P-19NOV-1",
-		"patchtitle":"19 NOV Update 1",
+		"patchpref":"P-24DEC-1",
+		"patchtitle":"24 DEC Update 1",
 		"patchdetail":"https://kp7742.github.io/update/CL2.html"
 	},
 	"supportversion": [
+		{
+			"version":"4.2.8",
+			"versioncode":"428",
+			"path":"https://github.com/kp7742/kp7742.github.io/raw/master/update/428.kmods"
+		},
 		{
 			"version":"4.2.6",
 			"versioncode":"426",
