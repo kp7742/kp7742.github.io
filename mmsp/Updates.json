@@ -1,0 +1,28 @@
+{
+	"appupdate": {
+		"isupdate":false,
+		"appversion":"2.4",
+		"appversioncode":24,
+		"linkupdate":"http://bit.ly/MMSuperPatcher2-0"
+	},
+	"patchupdate": {
+		"ispatchupdate":true,
+		"patchpref":"P-24DEC-1",
+		"patchtitle":"24 DEC Update 1",
+		"patchdetail":"https://kp7742.github.io/mmsp/CL.html"
+	},
+	"supportversion": [
+		{
+			"version":"4.2.8",
+			"versioncode":"428",
+			"path":"https://github.com/kp7742/kp7742.github.io/raw/master/mmsp/428.kmods"
+		}
+	],
+	"specialevent": {
+		"isspecial":false,
+		"eventpref":"E-07NOV-1",
+		"eventtitle":"Happy Diwali (India)",
+		"eventdetail":"http://wish4u.co/wish.php"
+	},
+	"whatsapplink":"https://chat.whatsapp.com/AB2fZJXtrkCJd906KnKvuw"
+}
